@@ -1,5 +1,7 @@
 {
   "name": "payCalculator",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
